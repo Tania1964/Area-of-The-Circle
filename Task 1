@@ -1,0 +1,16 @@
+Area of the Circle
+
+pi=3.14
+r= float (input(" Enter the radius of the circle: "))
+area=pi*r*r
+print ("Area of the circle is ",area)
+
+
+Print The Extension
+
+
+myfilename = "abc.python"
+
+myfilename.extns("•")
+
+filename, seperator, extension= myfilename.extns("•")

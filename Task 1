@@ -5,12 +5,15 @@ r= float (input(" Enter the radius of the circle: "))
 area=pi*r*r
 print ("Area of the circle is ",area)
 
+Enter the radius of the circle: 1.1
+Area of the circle 3.7994000000000008
 
-Print The Extension
+Print the Extension of the file
+
+filename=(input("Enter The Filename:")
+f_extns=filename.extension(".")
+print("Extension of the filename is:", filename.extension)
 
 
-myfilename = "abc.python"
 
-myfilename.extns("•")
 
-filename, seperator, extension= myfilename.extns("•")

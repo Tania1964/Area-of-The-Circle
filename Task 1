@@ -1,12 +1,12 @@
 Area of the Circle
 
-pi=3.14
+PI=3.14159
 r= float (input(" Enter the radius of the circle: "))
-area=pi*r*r
+area=PI*r*r
 print ("Area of the circle is ",area)
 
 Enter the radius of the circle: 1.1
-Area of the circle 3.7994000000000008
+Area of the circle 3.8013239000000003
 
 Print the Extension of the file
 
